@@ -1,4 +1,4 @@
-# List of JS and React conferences and open CFPs for 2020
+# List of JS and React conferences and open CFPs
 A list of resources to find JavaScript conferences and most importantly lists of Calls For Paper (CFP)
 
 - [CSS Tricks conference list](https://conferences.css-tricks.com/)
